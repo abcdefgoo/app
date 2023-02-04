@@ -8,7 +8,7 @@ import numpy as np
 
 
 classes = ["うどん", "そば", "ラーメン", "パスタ"]
-image_size = 50
+image_size = 100
 
 UPLOAD_FOLDER = "uploads"
 ALLOWED_EXTENSIONS = set(['png', 'jpg', 'jpeg', 'gif'])
